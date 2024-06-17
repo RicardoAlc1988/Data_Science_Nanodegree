@@ -1,1 +1,7 @@
-# Data_Science_Nanodegree
+
+## Installations (Python lybraries dependencies)
+
+- sentence-transformers
+- lancedb
+- tiktoken
+- openai==0.28
